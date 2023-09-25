@@ -43,19 +43,21 @@ All these results have been observed after 10 epochs of training the model.
 
 ### Future Improvements
 #### Add more data Augmentations
-- [ ]Geometric Transformations:
+- [ ] Geometric Transformations:
 
-- [ ] Flip
-- [ ] Crop
-- [ ]Rotate
-- [ ]Stretch
-- [ ]Zoom
+    - [ ] Flip
+    - [ ] Crop
+    - [ ] Rotate
+    - [ ] Stretch
+    - [ ] Zoom
 
-- [ ]Color Space Transformations:
+- [ ] Color Space Transformations:
 
-- [ ]Change RGB channels
-- [ ]Contrast 
-- [ ]Brightness
-- [ ]Kernel filters:
-- [ ]Sharpness 
-- [ ]blurring
+    - [ ] Change RGB channels
+    - [ ] Contrast 
+    - [ ] Brightness
+
+- [ ] Kernel filters:
+
+    - [ ] Sharpness 
+    - [ ] blurring
